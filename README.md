@@ -1,2 +1,2 @@
-React Native and Expo
-Simple authentication with Firebase
+React Native and Expo - 
+Simple authentication for Firebase
